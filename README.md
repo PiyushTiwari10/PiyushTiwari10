@@ -54,3 +54,27 @@ Like My Work?
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
+## 🚀 My Projects  
+
+✨ **Exploring AI, automation, and optimization to create game-changing solutions.**  
+
+<details open>
+  <summary>🔍 Click to explore my projects!</summary>  
+
+### 🖼️ **AI & Image Processing**  
+- **[📸 Image Processing Chatbot](https://lexi-frontend.vercel.app/)** – A chatbot that analyzes uploaded images using Computer Vision & NLP.  
+- **[🔬VidGenix- AI-powered Video Generation Platform](https://github.com/keshavsingh2004/VidGenix)** – Developed an AI-driven platform to generate videos from text, leveraging **Groq LLaMa 3.3 70B** for script.
+ generation and **Flux model** for high-quality image synthesis.  
+
+### 🏦 **Car Automatation**  
+- **[📊 Self-Driving Car Simulator (Unity)](https://www.youtube.com/watch?v=ifbFTaKrR6I)** – Gamified finance app for Gen Z with budgeting insights.    
+
+### 🧠 **AI & Language Processing**  
+- **[🧠 Article Summarizer Bot](https://ai-summarizer-react.vercel.app)** – AI-powered bot that can summarize any data through a link.  
+
+### 🛠️ **Developer Tools**  
+- **[⚙️ Tech Stack Installation Hub](#)** – Coming Soon.   
+
+</details>
+
+> 🔗 **Stay tuned for more groundbreaking projects!** 🚀

@@ -1,23 +1,47 @@
-<h1 align="center">Hi 👋, I'm Aditya Dubey</h1>
-<h3 align="center">AI/ML || Data Science Enthusiast || UI/UX Designer || Web Development Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Piyush Tiwari</h1>
+<h3 align="center">Developer | AI/ML Enthusiast | Web Development Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-dubey76&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-dubey76" /> </p>
-
-- 📫 How to reach me *dubeyaditya899@gmail.com*
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N4z-05gw8PcjuV_jald9eCTnuLI-0bWg/view?usp=drive_link](https://drive.google.com/file/d/1N4z-05gw8PcjuV_jald9eCTnuLI-0bWg/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aditya-dubey76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-dubey76" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/heavy_coder69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="heavy_coder69" height="30" width="40" /></a>
+  <strong>Phone:</strong> +91 7408682134 &nbsp;|&nbsp;
+  <strong>Portfolio:</strong> <a href="#">Portfolio Link</a> &nbsp;|&nbsp;
+  <strong>Mail:</strong> <a href="mailto:#">YourEmail@example.com</a> &nbsp;|&nbsp;
+  <strong>LinkedIn:</strong> <a href="#">LinkedIn Link</a> &nbsp;|&nbsp;
+  <strong>LeetCode:</strong> <a href="#">LeetCode Link</a> &nbsp;|&nbsp;
+  <strong>GitHub:</strong> <a href="#">GitHub Link</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Education
+- **Bachelors of Computer Science, Bennett University (The Times Group)**  
+  - CGPA: 8.95  
+  - Expected Graduation: 2026  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-dubey76&show_icons=true&locale=en&layout=compact" alt="aditya-dubey76" /></p>
+## Skills
+- **Languages:** C/C++, Python, JavaScript, HTML+CSS  
+- **Libraries:** C++ STL, ReactJS, Tesseract OCR, Three.js, Tailwind CSS  
+- **Web Dev Tools:** Node.js, Redux, VS Code, Git, GitHub  
+- **Frameworks:** ReactJS, Next.js  
+- **Cloud/Databases:** Firebase, MySQL  
+- **Relevant Coursework:** Data Structures, Algorithms, Operating Systems, OOP, DBMS, Software Engineering  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-dubey76&show_icons=true&locale=en" alt="aditya-dubey76" /></p>
+## Experience
+**Developer Intern at SYINQ**  
+(Dec 2024 - Mar 2025, Greater Noida)  
+- Redesigned and optimized the company website, boosting load speed by 25% and user retention by 15%.  
+- Implemented state management solutions (Redux, Context API), reducing API call redundancy by 40% and improving performance scalability.  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-dubey76&" alt="aditya-dubey76" /></p>
+## Projects
+
+### Lexi - The Image Processing Chatbot
+- Built an AI-powered chatbot for object detection and OCR-based text extraction, servicing 100+ image processing requests per month.  
+- Implemented multi-language OCR support with ~90% recognition accuracy.  
+- Leveraged Imgur API for cloud-based image uploads, reducing local server load by 60%.  
+
+### VidGenix - AI-powered Video Generation Platform
+- Developed an AI-driven platform that transforms text into video content, using “Groq LLaMa 3.3 70B” for script generation and “Flux” for image synthesis.  
+- Automated realistic voice narration with Deepgram TTS at 95%+ speech accuracy, halving manual editing time.  
+- Optimized rendering with FFmpeg, improving performance by 40%, and built a secure UI in Next.js, React, Tailwind CSS, and Clerk.  
+
+### Self-Driving Car Simulator (Unity)
+- Implemented a real-time LIDAR sensor fusion system, improving obstacle detection by 60% and decreasing collision rate by 20%.  
+- Built a detailed 3D simulation environment in Unity, increasing navigation accuracy by 35%.  
+- Deployed 200+ waypoints for smooth autonomous vehicle movement, enhancing realism and performance.

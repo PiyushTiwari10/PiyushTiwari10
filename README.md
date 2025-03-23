@@ -67,7 +67,7 @@ Like My Work?
  generation and **Flux model** for high-quality image synthesis.  
 
 ### 🏦 **Car Automatation**  
-- **[📊 Self-Driving Car Simulator (Unity)](https://www.youtube.com/watch?v=ifbFTaKrR6I)** – Gamified finance app for Gen Z with budgeting insights.    
+- **[📊 Self-Driving Car Simulator (Unity)](https://www.youtube.com/watch?v=ifbFTaKrR6I)** – A gamified self driving car simulator(real and vast environment, object detection and avoidance).
 
 ### 🧠 **AI & Language Processing**  
 - **[🧠 Article Summarizer Bot](https://ai-summarizer-react.vercel.app)** – AI-powered bot that can summarize any data through a link.  

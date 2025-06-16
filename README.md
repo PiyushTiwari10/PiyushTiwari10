@@ -73,7 +73,7 @@ Like My Work?
 - **[🧠 Article Summarizer Bot](https://ai-summarizer-react.vercel.app)** – AI-powered bot that can summarize any data through a link.  
 
 ### 🛠️ **Developer Tools**  
-- **[⚙️ Tech Stack Installation Hub](#)** – Coming Soon.   
+- **[⚙️ Tech Stack Installation Hub](https://t-hub-five.vercel.app)** – Check it out.
 
 </details>
 
